@@ -1,3 +1,4 @@
+﻿Jorge is in the way to become a productive member of the society
 #Practical Numerical Methods in Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
